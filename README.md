@@ -1,2 +1,3 @@
 # Stock
-This is a program about stock crawlers, you can freely add some conditions to filter, and it will be optimized towards the GUI in the future.
+This is a program about TWSE crawlers which can freely add some conditions to filter.
+Perform data visualization by word cloud. 
