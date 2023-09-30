@@ -11,3 +11,7 @@ It's a TWSE crawlers which can freely add any conditions to filter, and perform 
 2. Run insertNewday.py to add new data join to current table
 3. Update all stock name & number by stk_name.py
 4. Run word_cloud.py to generate wordcloud image base on your conditions
+   
+## Demo
+Word Cloud<br>
+![Word Cloud](img/Demo.png)
